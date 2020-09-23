@@ -9,7 +9,7 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile("README.md", generateMarkdown(), function(err) {
+    fs.writeFile(fileName, data, function(err) {
     
         if (err) {
           return console.log(err);
@@ -22,7 +22,18 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-    writeToFile();
+    inquirer
+    .prompt([
+        {
+            type: "input",
+            name: "title",
+            message: "What is the title of your project?"
+          },
+    ])
+    .then(function(data) {
+        console.log(data.title);
+        writeToFile("README.md", generateMarkdown(data));
+      });
 }
 
 // function call to initialize program
