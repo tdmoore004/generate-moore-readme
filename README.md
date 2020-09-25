@@ -3,7 +3,7 @@
 
 ## Description
 
-Do you want to create a professional README for the applications you create but don't have the time? Simply provide this application with input on various aspects of your application and it will generate a README for you. It takes the hassle out of README generation.
+Do you want to create a professional README for the applications that you create but don't have the time? Simply provide this application with input on various aspects of your application and it will generate a README for you. It takes the hassle out of README generation.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Do you want to create a professional README for the applications you create but 
 
 ## Installation
 
-This project is currenlty not available to be installed besides cloning the repository to your device.
+This project is currently not available to be installed besides clonning the repository to your device.
 
 ## Usage
 
@@ -28,11 +28,11 @@ This application is great for individuals who have all the information about the
 
 ## Contributing
 
-Fork repository or clone to your device. For larger contributions create an issue to describe the contribution you are adding.
+For repository or clone to your device. For larger contributions create an issue to descirbe the contribution you are adding.
 
 ## Tests
 
-There are not tests associated with this application.
+There are not any tests associated with this application.
 
 ## Questions
 
