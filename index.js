@@ -73,7 +73,7 @@ function init() {
         {
             type: "input",
             name: "email",
-            message: "What is your email for contact?"
+            message: "What is your email to be contacted at?"
           },
     ])
     .then(function(data) {

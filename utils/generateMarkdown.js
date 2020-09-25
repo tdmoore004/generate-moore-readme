@@ -58,7 +58,6 @@ ${data.tests}
 GitHub: [${data.github}](https://github.com/${data.github})  
 Email: [${data.email}](mailto:${data.email})
 `;
-  
 }
 
 module.exports = generateMarkdown;
