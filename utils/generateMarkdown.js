@@ -16,7 +16,7 @@ function generateMarkdown(data) {
     licenseBadge = "ISC-blue";
     licenseInfo = "isc";
   }
-  
+
   return `[![License: ${data.license}](https://img.shields.io/badge/License-${licenseBadge}.svg)](https://choosealicense.com/licenses/${licenseInfo}/)
 # ${data.title}
 
@@ -26,12 +26,12 @@ ${data.description}
 
 ## Table of Contents
 
-[Installation](##installation)
-[Usage](##usage)
-[License](##license)
-[Contributing](##contributing)
-[Tests](##tests)
-[Questions](##questions)
+[Installation](##installation)  
+[Usage](##usage)  
+[License](##license)  
+[Contributing](##contributing)  
+[Tests](##tests)  
+[Questions](##questions)  
 
 ## Installation
 
@@ -55,7 +55,7 @@ ${data.tests}
 
 ## Questions
 
-GitHub: [${data.github}](https://github.com/${data.github})
+GitHub: [${data.github}](https://github.com/${data.github})  
 Email: [${data.email}](mailto:${data.email})
 `;
   

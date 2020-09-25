@@ -7,12 +7,12 @@ Test
 
 ## Table of Contents
 
-[Installation](##installation)
-[Usage](##usage)
-[License](##license)
-[Contributing](##contributing)
-[Tests](##tests)
-[Questions](##questions)
+[Installation](##installation)  
+[Usage](##usage)  
+[License](##license)  
+[Contributing](##contributing)  
+[Tests](##tests)  
+[Questions](##questions)  
 
 ## Installation
 
@@ -36,5 +36,5 @@ Test
 
 ## Questions
 
-GitHub: [Test](https://github.com/Test)
+GitHub: [Test](https://github.com/Test)  
 Email: [Test](mailto:Test)
