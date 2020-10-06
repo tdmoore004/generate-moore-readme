@@ -16,11 +16,13 @@ Do you want to create a professional README for the applications that you create
 
 ## Installation
 
-This project is currently not available to be installed besides clonning the repository to your device.
+Clone the repository to your device. After cloning repository run 'npm install' in same directory as index.js to install dev dependencies.
 
 ## Usage
 
-This application is great for individuals who have all the information about their application but don't want to take the time to create a README. Following the prompts a user can input the information about their application and be presented with a professional README.
+1. Run 'node index.js' to prompt project questions for README generation.
+2. Input information about your project; including description, installation instructions, usage information, license information, how to contribute, information on tests and contact information for questions.
+3. After inputing information on project README.md file will be created in same directory as index.js.
 
 ## License
 
